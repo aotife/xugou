@@ -1,4 +1,4 @@
-# XUGOU - 基于CloudFlare搭建的轻量化监控平台
+1# XUGOU - 基于CloudFlare搭建的轻量化监控平台
 
 <div align="center">
 
